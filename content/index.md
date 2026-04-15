@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my digital garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi there! Welcome to my digital garden, a space where I share my thoughts, ideas, and projects. Here you'll find a collection of notes, articles, and resources on various topics that I'm passionate about. Feel free to explore and connect with me if you have any questions or want to collaborate on something interesting. Happy gardening!
