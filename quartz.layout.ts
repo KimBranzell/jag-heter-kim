@@ -6,6 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.RecentNotes({
+      limit: 8,
+      showTags: false,
+    }),
     Component.Comments({
       provider: 'giscus',
       options: {
@@ -16,6 +20,7 @@ export const sharedPageComponents: SharedLayout = {
         lang: 'en'
       }
     }),
+
   ],
   footer: Component.Footer({
     links: {
